@@ -11,7 +11,7 @@ public class CurrentAccount implements BankAccount {
 
     private Customer customer;
 
-    private String cardNumber;
+    private String accountNumber;
 
     private List<Person> holders;
 
